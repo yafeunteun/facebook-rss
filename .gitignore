@@ -173,3 +173,4 @@ dmypy.json
 venv/
 .ipynb_checkpoints/
 geckogriver.log
+geckodriver.log
